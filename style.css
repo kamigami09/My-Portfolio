@@ -1121,11 +1121,4 @@ input:focus, textarea:focus {
     .project-img {
         height: 220px;
     }
-
-    
-    .profile-image{
-    width:100%;
-    height:100%;          /* force it to fill the placeholder */
-    object-fit:cover;     /* crop edges if necessary, keeps aspect-ratio */
-}
 }
